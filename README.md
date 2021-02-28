@@ -1,0 +1,2 @@
+<h1> Before The Process </h1>
+<p> I have very little knowledge about html and css. I learned it all from freecodecamp.org and I am new to the whole coding idea. I hope to learn more and make this my full-time career. </p>
